@@ -1,0 +1,4 @@
+Time Complexity
+
+Runtime: o(log n) + o(log n) 
+Space: o(1)
